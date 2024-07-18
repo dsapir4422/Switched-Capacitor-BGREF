@@ -77,6 +77,7 @@ Non-overlapping circuit  -
 Digital circuit to generate s1,s2 phases to create a non-overlap period of 2[ns] with 2[MHz] clock.
 The non-overlap period creates a dead time region to avoid switching leakage.
 Numbers of buffers (2 NOT gates) determine the delay which creates the non-overlap period.
+
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/af2fbabe-d867-4cd5-bf50-90e3eef740c3">
 
 Transmission Gate circuit - 
